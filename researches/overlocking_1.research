@@ -1,0 +1,15 @@
+{
+  "ParentResearchUris": [
+    "voxel_satisfactoriocoon/pixel_mining.research",
+    "base/manufacturing.research"
+  ],
+  "Tier": 1,
+  "Days": 43,
+  "DaysMultiplier": null,
+  "PricePerDay": 101,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

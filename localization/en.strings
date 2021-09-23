@@ -1,0 +1,7 @@
+{
+  "LocaleUri": "base/en.locale",
+  "Items": {
+    "voxel_satisfactoriocoon/pixel.item#DisplayName": "Pixel",
+    "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Pixels",
+  }
+}

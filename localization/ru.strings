@@ -1,0 +1,13 @@
+{
+  "LocaleUri": "base/ru.locale",
+  "Items": {
+    "voxel_satisfactoriocoon/greet_title": "Привет, {username}!",
+    "voxel_satisfactoriocoon/greet_text": "",
+    "voxel_satisfactoriocoon/pixel.item#DisplayName": "Пиксель",
+    "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Пиксели",
+    "voxel_satisfactoriocoon/pixel_mining.research#DisplayName": "Майнинг пикселей",
+    "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Растровая графика (разгон lv.1)",
+    "voxel_satisfactoriocoon/pixel.mine#DisplayName": "Майнер пикселей",
+    "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Бустер графики (lv.1)",
+  }
+}

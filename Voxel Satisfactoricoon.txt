@@ -1,0 +1,54 @@
+Hi Everybody.
+Looking for somebody to produce original conception for mod.
+
+Voxel Satisfactoricoon
+
+New resources:
+— Pixels (Dots)
+— 2D
+— 3D
+— Voxel
+— Tesseract
+— Coffee Cup
+— Diesel Engine
+— Tesla
+— TTDL
+— Factorio
+— Satisfactory
+— Voxel Tycoon
+— Penteract (чего, блядь?!1)
+
+New mining:
+— Pixels (Dot) mining.
+
+New industry:
+— Enrichment factory (lv. 1-4)
+— Meaning Transformer
+— Engine Assembler factory
+— Assembler
+
+New researches:
+— Enrichment (lv. 1-4 for Pixels, 2D, 3D) ⟶ Enrichment factories
+— Meaning Transformer
+
+Production:
+— Pixels (Dots) ⟶ 2D (Enrichment factory lv.1 aka 2D-factory)
+— 2D ⟶ 3D (Enrichment factory lv.2 aka 3D-factory)
+— 3D + 2D ⟶ Voxel (Enrichment factory lv.3 aka Voxel factory)
+— 3D ⟶ Tesseract (Enrichment factory lv.4 aka Tesseract factory)
+— Iron ingot ⟶ Coffee Cup (Base game Press)
+— Steel beam + Iron ingot + Glass + Copper wire ⟶ Diesel Engine (Engine Assembler factory)
+— Steel beam + Glass ⟶ Tesla (Engine Assembler factory)
+— 2D + Diesel Engine ⟶ TTDL (Meaning Transformer)
+— ALL BASE GAME RESOURCES + Diesel Engine ⟶ Factorio (Meaning Transformer)
+— 3D + Factorio + Coffee Cup + Tesla ⟶ Satisfactory (Meaning Transformer)
+— Voxel + Satisfactory + TTDL ⟶ Voxel Tycoon (Meaning Transformer)
+
+Production of firts item of Voxel Tycoon can be the game goal.
+Need to make voxel models of most all objects.
+Diesel engine/Tesla needes their own Truck/Wagon. Model of diesel engine itself can be taken from any game diesel engine. :)
+
+Engine Assembler factory can be used to produce the ingame transport.
+
+If you want to participate in this affaire, contact me. =)
+I can balance it and make mod. You have to make/prepare models.
