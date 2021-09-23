@@ -1,0 +1,44 @@
+{
+  "Items": {
+    "voxel_satisfactoriocoon/g_pixel.item": null
+  },
+  "OutputInterval": 3.0,
+  "Submeshes": [
+    {
+      "MeshUri": "voxel_satisfactoriocoon/g_pixel_mine_wheel.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": 1.2
+        },
+        "PositionY": {
+          "0": 4.6
+        },
+        "PositionZ": {
+          "0": 0.238
+        },
+        "RotationZ": {
+          "0": 0.0,
+          "2": 360.0
+        }
+      }
+    }
+  ],
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "voxel_satisfactoriocoon/pixel_mining.research",
+  "Size": {
+    "X": 6,
+    "Y": 5,
+    "Z": 6
+  },
+  "Liveries": {
+    "default": {
+      "MeshUri": "voxel_satisfactoriocoon/g_pixel_mine.obj",
+      "MeshVariant": null,
+      "Lights": null
+    }
+  },
+  "Price": 66000.0,
+  "RunningCosts": 100,
+  "Hidden": false
+}

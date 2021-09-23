@@ -1,0 +1,21 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/overlocker_v2.recipetarget",
+  "Duration": 8.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/pixel.item",
+      "Count": 16.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/r_pixel.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_1.research"
+}

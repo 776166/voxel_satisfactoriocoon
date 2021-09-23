@@ -2,12 +2,25 @@
   "LocaleUri": "base/ru.locale",
   "Items": {
     "voxel_satisfactoriocoon/greet_title": "Привет, {username}!",
-    "voxel_satisfactoriocoon/greet_text": "",
+    "voxel_satisfactoriocoon/greet_text": "Это Voxel SatisFactorioCoon. \nДавайте вместе сделаем транспортные тайкуны снова классными?!",
     "voxel_satisfactoriocoon/pixel.item#DisplayName": "Пиксель",
     "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Пиксели",
+    "voxel_satisfactoriocoon/r_pixels.deposit#DisplayName": "Красные пиксели",
+    "voxel_satisfactoriocoon/g_pixels.deposit#DisplayName": "Зелёные пиксели",
+    "voxel_satisfactoriocoon/b_pixels.deposit#DisplayName": "Синие пиксели",
+    "voxel_satisfactoriocoon/r_pixel.item#DisplayName": "Красный пиксель",
+    "voxel_satisfactoriocoon/g_pixel.item#DisplayName": "Зелёный пиксель",
+    "voxel_satisfactoriocoon/b_pixel.item#DisplayName": "Голубой пиксель",
     "voxel_satisfactoriocoon/pixel_mining.research#DisplayName": "Майнинг пикселей",
     "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Растровая графика (разгон lv.1)",
     "voxel_satisfactoriocoon/pixel.mine#DisplayName": "Майнер пикселей",
+    "voxel_satisfactoriocoon/r_pixel.mine#DisplayName": "Майнер красных пикселей",
+    "voxel_satisfactoriocoon/g_pixel.mine#DisplayName": "Майнер зелёных пикселей",
+    "voxel_satisfactoriocoon/b_pixel.mine#DisplayName": "Майнер синих пикселей",
     "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Бустер графики (lv.1)",
+    "voxel_satisfactoriocoon/overlocker_v2.device#DisplayName": "Бустер графики (lv.1)",
+    "voxel_satisfactoriocoon/2d.item#DisplayName": "2D",
+    "voxel_satisfactoriocoon/2d_v1.recipe#DisplayName": "2D — читерный рецепт",
+    "voxel_satisfactoriocoon/2d_v2.recipe#DisplayName": "2D — хардкорный рецепт"
   }
 }
