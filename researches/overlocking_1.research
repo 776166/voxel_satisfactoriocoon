@@ -4,11 +4,27 @@
     "base/manufacturing.research"
   ],
   "Tier": 1,
-  "Days": 43,
+  "Days": 64,
   "DaysMultiplier": null,
-  "PricePerDay": 101,
+  "PricePerDay": 64,
   "PricePerDayMultiplier": null,
-  "ItemsPerDay": [],
+  "ItemsPerDay": [
+    {
+      "Uri": "voxel_satisfactoriocoon/r_pixel.item",
+      "Count": 1,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/g_pixel.item",
+      "Count": 2,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/b_pixel.item",
+      "Count": 4,
+      "CountMultiplier": null
+    }
+  ],
   "CompletedByDefault": false,
   "Hidden": false,
   "Goal": false

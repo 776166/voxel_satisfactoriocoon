@@ -1,7 +1,7 @@
 {
   "Materials": [
     {
-      "Color": "681900",
+      "Color": "750000",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -9,7 +9,7 @@
       "Specular": 0
     },
     {
-      "Color": "8e0808",
+      "Color": "ff7575",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -17,7 +17,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff0a00",
+      "Color": "ff0000",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,

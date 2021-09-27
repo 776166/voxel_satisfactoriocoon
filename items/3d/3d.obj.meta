@@ -1,7 +1,7 @@
 {
   "Materials": [
     {
-      "Color": "007500",
+      "Color": "cecece",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -9,7 +9,7 @@
       "Specular": 0
     },
     {
-      "Color": "75ff75",
+      "Color": "cecece",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -17,7 +17,7 @@
       "Specular": 0
     },
     {
-      "Color": "00ff00",
+      "Color": "00ffff",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -25,7 +25,7 @@
       "Specular": 0
     },
     {
-      "Color": "0000ff",
+      "Color": "ff00ff",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,

@@ -1,0 +1,26 @@
+{
+  "ParentResearchUris": [
+    "voxel_satisfactoriocoon/overlocking_1.research",
+    "base/iron_smelting.research"
+  ],
+  "Tier": 1,
+  "Days": 64,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/iron_bar.item",
+      "Count": 1,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 4,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

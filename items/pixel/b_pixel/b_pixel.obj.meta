@@ -1,7 +1,7 @@
 {
   "Materials": [
     {
-      "Color": "031d7a",
+      "Color": "000075",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -9,7 +9,7 @@
       "Specular": 0
     },
     {
-      "Color": "18144b",
+      "Color": "7575ff",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -17,7 +17,7 @@
       "Specular": 0
     },
     {
-      "Color": "0015ff",
+      "Color": "0000ff",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,

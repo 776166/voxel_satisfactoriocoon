@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "8c6646",
+  "MeshUri": "voxel_satisfactoriocoon/3d.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}
