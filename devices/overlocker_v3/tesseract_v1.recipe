@@ -13,9 +13,9 @@
   ],
   "OutputItems": [
     {
-      "Uri": "voxel_satisfactoriocoon/voxel.item",
+      "Uri": "voxel_satisfactoriocoon/tesseract.item",
       "Count": 1.0
     }
   ],
-  "ResearchUri": "voxel_satisfactoriocoon/overlocking_3.research"
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_4.research"
 }

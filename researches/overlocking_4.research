@@ -1,23 +1,22 @@
 {
   "ParentResearchUris": [
-    "voxel_satisfactoriocoon/overlocking_2.research",
-    "base/manufacturing_2.research",
-    "base/steel_fabrication.research"
+    "voxel_satisfactoriocoon/overlocking_3.research",
+    "base/manufacturing_3.research"
   ],
   "Tier": 1,
-  "Days": 64,
+  "Days": 128,
   "DaysMultiplier": null,
   "PricePerDay": null,
   "PricePerDayMultiplier": null,
   "ItemsPerDay": [
     {
-      "Uri": "base/steel_beam.item",
-      "Count": 1,
+      "Uri": "voxel_satisfactoriocoon/3d.item",
+      "Count": 3,
       "CountMultiplier": null
     },
     {
-      "Uri": "voxel_satisfactoriocoon/3d.item",
-      "Count": 4,
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 2,
       "CountMultiplier": null
     }
   ],

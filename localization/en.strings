@@ -1,7 +1,52 @@
 {
   "LocaleUri": "base/en.locale",
   "Items": {
+    "voxel_satisfactoriocoon/greet_title": "Hellow, {{ username }}!",
+    "voxel_satisfactoriocoon/greet_text": "This is Voxel SatisFactorioCoon mod. Let's make Tycoons greate again together?!",
+
     "voxel_satisfactoriocoon/pixel.item#DisplayName": "Pixel",
+    "voxel_satisfactoriocoon/r_pixel.item#DisplayName": "Red pixel",
+    "voxel_satisfactoriocoon/g_pixel.item#DisplayName": "Green Pixel",
+    "voxel_satisfactoriocoon/b_pixel.item#DisplayName": "Blue pixel",
+    "voxel_satisfactoriocoon/2d.item#DisplayName": "2D",
+    "voxel_satisfactoriocoon/3d.item#DisplayName": "3D",
+    "voxel_satisfactoriocoon/voxel.item#DisplayName": "Voxel",
+    "voxel_satisfactoriocoon/tesseract.item#DisplayName": "Tesseract",
+    "voxel_satisfactoriocoon/cup.item#DisplayName": "FICSIT Coffee Cup™",
+
     "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Pixels",
+    "voxel_satisfactoriocoon/r_pixels.deposit#DisplayName": "Red pixels",
+    "voxel_satisfactoriocoon/g_pixels.deposit#DisplayName": "Green pixels",
+    "voxel_satisfactoriocoon/b_pixels.deposit#DisplayName": "Blue pixels",
+    "voxel_satisfactoriocoon/black_pixels.deposit#DisplayName": "Black pixels",
+    "voxel_satisfactoriocoon/white_pixels.deposit#DisplayName": "White pixels",
+
+    "voxel_satisfactoriocoon/pixel_mining.research#DisplayName": "Pixels mining",
+    "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Rastre graphics (overlocking lv.1)",
+    "voxel_satisfactoriocoon/overlocking_2.research#DisplayName": "3D graphics (overlocking lv.2)",
+    "voxel_satisfactoriocoon/overlocking_3.research#DisplayName": "Voxel graphics (overlocking lv.3)",
+    "voxel_satisfactoriocoon/overlocking_4.research#DisplayName": "4D graphichs (stoned overlocking lv.4)",
+
+    "voxel_satisfactoriocoon/pixel.mine#DisplayName": "Pixels miner",
+    "voxel_satisfactoriocoon/r_pixel.mine#DisplayName": "Red pixels miner",
+    "voxel_satisfactoriocoon/g_pixel.mine#DisplayName": "Green pixels miner",
+    "voxel_satisfactoriocoon/b_pixel.mine#DisplayName": "Blue pixels miner",
+    "voxel_satisfactoriocoon/black_pixel.mine#DisplayName": "Black pixels miner",
+    "voxel_satisfactoriocoon/white_pixel.mine#DisplayName": "White pixels miner",
+
+    "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Graphics booster (lv.1)",
+    "voxel_satisfactoriocoon/overlocker_v2.device#DisplayName": "Graphics booster (lv.1)",
+    "voxel_satisfactoriocoon/enrichment_factory_v1.device#DisplayName": "Graphics enrichement factory",
+    "voxel_satisfactoriocoon/overlocker_v3.device#DisplayName": "Graphics booster (lv.2)",
+
+    "voxel_satisfactoriocoon/2d_v1.recipe#DisplayName": "2D — cheat recipe",
+    "voxel_satisfactoriocoon/2d_v2.recipe#DisplayName": "2D — hardcore recipe",
+    "voxel_satisfactoriocoon/3d_v1.recipe#DisplayName": "3D — base recipe",
+    "voxel_satisfactoriocoon/3d_v2.recipe#DisplayName": "3D — alternative recipe",
+    "voxel_satisfactoriocoon/rgb.recipe#DisplayName": "B/W enrichement up to RGB — base recipe",
+    "voxel_satisfactoriocoon/voxel_v1.recipe#DisplayName": "Voxels — base recipe",
+    "voxel_satisfactoriocoon/tesseract_v1.recipe#DisplayName": "Tesseract — base stoned recipe",
+
+    "voxel_satisfactoriocoon/advert": "Your AD could be here!1"
   }
 }

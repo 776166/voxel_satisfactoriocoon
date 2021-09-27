@@ -1,7 +1,7 @@
 {
   "LocaleUri": "base/ru.locale",
   "Items": {
-    "voxel_satisfactoriocoon/greet_title": "Привет, {username}!",
+    "voxel_satisfactoriocoon/greet_title": "Привет, {{ username }}!",
     "voxel_satisfactoriocoon/greet_text": "Это Voxel SatisFactorioCoon. Давайте вместе сделаем транспортные тайкуны снова классными?!",
 
     "voxel_satisfactoriocoon/pixel.item#DisplayName": "Пиксель",
@@ -11,6 +11,8 @@
     "voxel_satisfactoriocoon/2d.item#DisplayName": "2D",
     "voxel_satisfactoriocoon/3d.item#DisplayName": "3D",
     "voxel_satisfactoriocoon/voxel.item#DisplayName": "Воксель",
+    "voxel_satisfactoriocoon/tesseract.item#DisplayName": "Тессеракт",
+    "voxel_satisfactoriocoon/cup.item#DisplayName": "FICSIT Coffee Cup™",
 
     "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Пиксели",
     "voxel_satisfactoriocoon/r_pixels.deposit#DisplayName": "Красные пиксели",
@@ -23,6 +25,7 @@
     "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Растровая графика (разгон lv.1)",
     "voxel_satisfactoriocoon/overlocking_2.research#DisplayName": "3D графика (разгон lv.2)",
     "voxel_satisfactoriocoon/overlocking_3.research#DisplayName": "Voxel-графика (разгон lv.3)",
+    "voxel_satisfactoriocoon/overlocking_4.research#DisplayName": "4D-графика (упоротый разгон lv.4)",
 
     "voxel_satisfactoriocoon/pixel.mine#DisplayName": "Майнер пикселей",
     "voxel_satisfactoriocoon/r_pixel.mine#DisplayName": "Майнер красных пикселей",
@@ -42,6 +45,7 @@
     "voxel_satisfactoriocoon/3d_v2.recipe#DisplayName": "3D — альтернативный рецепт",
     "voxel_satisfactoriocoon/rgb.recipe#DisplayName": "Обогащение B/W в RGB — базовый рецепт",
     "voxel_satisfactoriocoon/voxel_v1.recipe#DisplayName": "Воксели — базовый рецепт",
+    "voxel_satisfactoriocoon/tesseract_v1.recipe#DisplayName": "Тессеракт — базовый упоротый рецепт",
 
     "voxel_satisfactoriocoon/advert": "Здесь могла бы быть ваша реклама!1"
   }

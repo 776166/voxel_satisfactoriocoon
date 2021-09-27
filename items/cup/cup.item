@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "c4cec4",
+  "MeshUri": "appliance_industry/rotor.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 0.28
+}

@@ -8,7 +8,7 @@
   "PricePerDay": 100,
   "PricePerDayMultiplier": null,
   "ItemsPerDay": [],
-  "CompletedByDefault": false,
+  "CompletedByDefault": true,
   "Hidden": false,
   "Goal": false
 }
