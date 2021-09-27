@@ -9,6 +9,8 @@
     "voxel_satisfactoriocoon/g_pixel.item#DisplayName": "Зелёный пиксель",
     "voxel_satisfactoriocoon/b_pixel.item#DisplayName": "Голубой пиксель",
     "voxel_satisfactoriocoon/2d.item#DisplayName": "2D",
+    "voxel_satisfactoriocoon/3d.item#DisplayName": "3D",
+    "voxel_satisfactoriocoon/voxel.item#DisplayName": "Воксель",
 
     "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Пиксели",
     "voxel_satisfactoriocoon/r_pixels.deposit#DisplayName": "Красные пиксели",
@@ -20,6 +22,7 @@
     "voxel_satisfactoriocoon/pixel_mining.research#DisplayName": "Майнинг пикселей",
     "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Растровая графика (разгон lv.1)",
     "voxel_satisfactoriocoon/overlocking_2.research#DisplayName": "3D графика (разгон lv.2)",
+    "voxel_satisfactoriocoon/overlocking_3.research#DisplayName": "Voxel-графика (разгон lv.3)",
 
     "voxel_satisfactoriocoon/pixel.mine#DisplayName": "Майнер пикселей",
     "voxel_satisfactoriocoon/r_pixel.mine#DisplayName": "Майнер красных пикселей",
@@ -30,12 +33,16 @@
 
     "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Бустер графики (lv.1)",
     "voxel_satisfactoriocoon/overlocker_v2.device#DisplayName": "Бустер графики (lv.1)",
-    "voxel_satisfactoriocoon/enrichment_factory_v1.device#DisplayName": "Фабрика обогощения графики",
+    "voxel_satisfactoriocoon/enrichment_factory_v1.device#DisplayName": "Фабрика обогащения графики",
+    "voxel_satisfactoriocoon/overlocker_v3.device#DisplayName": "Бустер графики (lv.2)",
 
     "voxel_satisfactoriocoon/2d_v1.recipe#DisplayName": "2D — читерный рецепт",
     "voxel_satisfactoriocoon/2d_v2.recipe#DisplayName": "2D — хардкорный рецепт",
     "voxel_satisfactoriocoon/3d_v1.recipe#DisplayName": "3D — базовый рецепт",
     "voxel_satisfactoriocoon/3d_v2.recipe#DisplayName": "3D — альтернативный рецепт",
-    "voxel_satisfactoriocoon/rgb.recipe#DisplayName": "Обогащение B/W в RGB — базовый рецепт"
+    "voxel_satisfactoriocoon/rgb.recipe#DisplayName": "Обогащение B/W в RGB — базовый рецепт",
+    "voxel_satisfactoriocoon/voxel_v1.recipe#DisplayName": "Воксели — базовый рецепт",
+
+    "voxel_satisfactoriocoon/advert": "Здесь могла бы быть ваша реклама!1"
   }
 }
