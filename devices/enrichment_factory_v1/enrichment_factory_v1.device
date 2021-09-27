@@ -1,0 +1,254 @@
+{
+  "RecipeTargetUri": "voxel_satisfactoriocoon/enrichment_factory_v1.recipetarget",
+  "Submeshes": [
+		{
+      "MeshUri": "voxel_satisfactoriocoon/enrichment_factory_v1_device_fan.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -3.89
+        },
+        "PositionY": {
+          "0": 5.11
+        },
+        "PositionZ": {
+          "0": -3.98
+        },
+        "RotationY": {
+          "0": 0.0,
+          "0.15": 15.0,
+          "0.33": 60.0,
+          "0.5": 112.5,
+          "0.66": 186.6,
+          "1.33": 533.3,
+          "1.5": 607.5,
+          "1.66": 660.0,
+          "1.85": 705.0,
+          "2": 720.0
+        }
+      }
+    },
+    {
+      "MeshUri": "voxel_satisfactoriocoon/enrichment_factory_v1_device_fan.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -2.32
+        },
+        "PositionY": {
+          "0": 5.11
+        },
+        "PositionZ": {
+          "0": -3.98
+        },
+        "RotationY": {
+          "0": 0.0,
+          "0.15": 7.5,
+          "0.33": 30.0,
+          "0.5": 56.25,
+          "0.66": 93.3,
+          "1.33": 266.65,
+          "1.5": 303.75,
+          "1.66": 330.0,
+          "1.85": 352.5,
+          "2": 360.0
+        }
+      }
+    },
+		
+		{
+      "MeshUri": "voxel_satisfactoriocoon/enrichment_factory_v1_device_antenna.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1.96
+        },
+        "PositionY": {
+          "0": 5.67
+        },
+        "PositionZ": {
+          "0": 3.72
+        },
+        "RotationY": {
+          "0": -50.0
+        }
+      }
+    },
+		{
+      "MeshUri": "voxel_satisfactoriocoon/enrichment_factory_v1_device_antenna.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1.96
+        },
+        "PositionY": {
+          "0": 5.67
+        },
+        "PositionZ": {
+          "0": 1.46
+        },
+        "RotationY": {
+          "0": -18.0
+        }
+      }
+    },
+		{
+      "MeshUri": "voxel_satisfactoriocoon/enrichment_factory_v1_device_antenna.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1.96
+        },
+        "PositionY": {
+          "0": 5.67
+        },
+        "PositionZ": {
+          "0": -0.8
+        },
+        "RotationY": {
+          "0": 58.0
+        }
+      }
+    },
+	],
+  "Sounds": [],
+  "Smokes": null,
+  "ClippingPlanes": [
+		{
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-3.5, 0.29, -4.86],
+      "Rotation": [0, 180, 0],
+      "Scale": [0.41, 0.59, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-4.86, 0.29, -0.5],
+      "Rotation": [0, 270, 0],
+      "Scale": [0.41, 0.59, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-4.86, 0.29, 2.5],
+      "Rotation": [0, 270, 0],
+      "Scale": [0.41, 0.59, 1]
+    },
+	],
+  "Conveyors": [
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 1,
+        "Y": 0,
+        "Z": -1
+      },
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 1,
+        "Y": 0,
+        "Z": 0
+      },
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+		
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": -1,
+        "Y": 0,
+        "Z": 4
+      },
+      "Rotation": "Rotate270",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 0,
+        "Y": 0,
+        "Z": 4
+      },
+      "Rotation": "Rotate90",
+      "Handle": false
+    },
+		
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": -1,
+        "Y": 0,
+        "Z": 7
+      },
+      "Rotation": "Rotate270",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 0,
+        "Y": 0,
+        "Z": 7
+      },
+      "Rotation": "Rotate90",
+      "Handle": false
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_1.research",
+  "Size": {
+    "X": 10,
+    "Y": 7,
+    "Z": 10
+  },
+  "Liveries": {
+    "default": {
+      "MeshUri": "voxel_satisfactoriocoon/enrichment_factory_v1_device.obj",
+      "MeshVariant": null,
+      "Lights": null,
+			"NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        },
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_2",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            },
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_2",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 457500.0,
+  "RunningCosts": null,
+  "Hidden": false
+}

@@ -14,6 +14,8 @@
     "voxel_satisfactoriocoon/r_pixels.deposit#DisplayName": "Красные пиксели",
     "voxel_satisfactoriocoon/g_pixels.deposit#DisplayName": "Зелёные пиксели",
     "voxel_satisfactoriocoon/b_pixels.deposit#DisplayName": "Синие пиксели",
+    "voxel_satisfactoriocoon/black_pixels.deposit#DisplayName": "Чёрные пиксели",
+    "voxel_satisfactoriocoon/white_pixels.deposit#DisplayName": "Белые пиксели",
 
     "voxel_satisfactoriocoon/pixel_mining.research#DisplayName": "Майнинг пикселей",
     "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Растровая графика (разгон lv.1)",
@@ -23,13 +25,17 @@
     "voxel_satisfactoriocoon/r_pixel.mine#DisplayName": "Майнер красных пикселей",
     "voxel_satisfactoriocoon/g_pixel.mine#DisplayName": "Майнер зелёных пикселей",
     "voxel_satisfactoriocoon/b_pixel.mine#DisplayName": "Майнер синих пикселей",
+    "voxel_satisfactoriocoon/black_pixel.mine#DisplayName": "Майнер чёрных пикселей",
+    "voxel_satisfactoriocoon/white_pixel.mine#DisplayName": "Майнер белых пикселей",
 
     "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Бустер графики (lv.1)",
     "voxel_satisfactoriocoon/overlocker_v2.device#DisplayName": "Бустер графики (lv.1)",
+    "voxel_satisfactoriocoon/enrichment_factory_v1.device#DisplayName": "Фабрика обогощения графики",
 
     "voxel_satisfactoriocoon/2d_v1.recipe#DisplayName": "2D — читерный рецепт",
     "voxel_satisfactoriocoon/2d_v2.recipe#DisplayName": "2D — хардкорный рецепт",
     "voxel_satisfactoriocoon/3d_v1.recipe#DisplayName": "3D — базовый рецепт",
-    "voxel_satisfactoriocoon/3d_v2.recipe#DisplayName": "3D — альтернативный рецепт"
+    "voxel_satisfactoriocoon/3d_v2.recipe#DisplayName": "3D — альтернативный рецепт",
+    "voxel_satisfactoriocoon/rgb.recipe#DisplayName": "Обогащение B/W в RGB — базовый рецепт"
   }
 }

@@ -1,7 +1,7 @@
 {
   "Materials": [
     {
-      "Color": "999999",
+      "Color": "ffffff",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -81,7 +81,7 @@
       "Specular": 0
     },
     {
-      "Color": "999999",
+      "Color": "ffffff",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,

@@ -1,0 +1,21 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/enrichment_factory_v1.recipetarget",
+  "Duration": 1.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/black_pixel.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/white_pixel.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/pixel.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_1.research"
+}
