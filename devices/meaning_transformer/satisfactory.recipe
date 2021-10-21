@@ -1,0 +1,29 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/meaning_transformer_v1.recipetarget",
+  "Duration": 1.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/3d.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/factorio.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/coffee_cup.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/tesla.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/satisfactory.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "base/electronic_devices_production.research"
+}

@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "c4cec4",
+  "MeshUri": "voxel_satisfactoriocoon/tesla.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.05
+}

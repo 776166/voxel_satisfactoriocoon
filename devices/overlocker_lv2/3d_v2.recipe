@@ -1,0 +1,29 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/overlocker_lv2.recipetarget",
+  "Duration": 48.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/r_pixel.item",
+      "Count": 3.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/g_pixel.item",
+      "Count": 3.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/b_pixel.item",
+      "Count": 3.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 8.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/3d.item",
+      "Count": 3.0
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_lv2.research"
+}

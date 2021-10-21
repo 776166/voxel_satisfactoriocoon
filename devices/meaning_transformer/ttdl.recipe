@@ -1,0 +1,37 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/meaning_transformer_v1.recipetarget",
+  "Duration": 1.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "engines_production/steam_engine.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "engines_production/gasoline_engine.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "engines_production/diesel_engine.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "engines_production/jet_engine.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "engines_production/electric_engine.item",
+      "Count": 1.0
+    },
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/ttdl.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "engines_production/electric_engine_production.research"
+}

@@ -1,0 +1,21 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/overlocker_lv3.recipetarget",
+  "Duration": 16.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 2.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/3d.item",
+      "Count": 3.0
+    },
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/voxel.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_lv3.research"
+}

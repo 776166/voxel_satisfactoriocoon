@@ -1,0 +1,144 @@
+{
+  "RecipeTargetUri": "voxel_satisfactoriocoon/overlocker_lv3.recipetarget",
+  "Submeshes": [],
+  "Sounds": [
+    {
+      "SoundUri": "base/alloy_smelter_device.wav",
+      "Time": 0.5
+    }
+  ],
+  "Smokes": null,
+  "ClippingPlanes": null,
+  "Conveyors": [
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 0,
+        "Y": 0,
+        "Z": -1
+      },
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 1,
+        "Y": 0,
+        "Z": 4
+      },
+      "Rotation": "Rotate0",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 1,
+        "Y": 0,
+        "Z": 3
+      },
+      "Rotation": "Rotate180",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 2,
+        "Y": 0,
+        "Z": 4
+      },
+      "Rotation": "Rotate0",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 2,
+        "Y": 0,
+        "Z": 3
+      },
+      "Rotation": "Rotate180",
+      "Handle": false
+    },
+	{
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 0,
+        "Y": 0,
+        "Z": 4
+      },
+      "Rotation": "Rotate0",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 0,
+        "Y": 0,
+        "Z": 3
+      },
+      "Rotation": "Rotate180",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 3,
+        "Y": 0,
+        "Z": 4
+      },
+      "Rotation": "Rotate0",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 3,
+        "Y": 0,
+        "Z": 3
+      },
+      "Rotation": "Rotate180",
+      "Handle": false
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_lv3.research",
+  "MeshUri": "voxel_satisfactoriocoon/overlocker_lv3.obj",
+  "Size": {
+    "X": 6,
+    "Y": 1,
+    "Z": 4
+  },
+  "Price": 60800.0,
+  "RunningCosts": null,
+  "Hidden": false
+}

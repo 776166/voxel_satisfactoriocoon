@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "c4cec4",
+  "MeshUri": "voxel_satisfactoriocoon/coffee_cup.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 0.28
+}

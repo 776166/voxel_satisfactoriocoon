@@ -1,0 +1,27 @@
+{
+    "Commands": [
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "base/small_warehouse.storages",
+            "Path": "Items",
+            "Value": {
+              "voxel_satisfactoriocoon/r_pixel.item": null,
+              "voxel_satisfactoriocoon/g_pixel.item": null,
+              "voxel_satisfactoriocoon/b_pixel.item": null,
+              "voxel_satisfactoriocoon/pixel.item": null,
+              "voxel_satisfactoriocoon/black_pixel.item": null,
+              "voxel_satisfactoriocoon/white_pixel.item": null,
+              "voxel_satisfactoriocoon/2d.item": {"stackable": true},
+              "voxel_satisfactoriocoon/3d.item": {"stackable": true},
+              "voxel_satisfactoriocoon/coffee_cup.item": {"stackable": true},
+              "voxel_satisfactoriocoon/factorio.item": {"stackable": true},
+              "voxel_satisfactoriocoon/satisfactory.item": {"stackable": true},
+              "voxel_satisfactoriocoon/tesla.item": {"stackable": true},
+              "voxel_satisfactoriocoon/tesseract.item": {"stackable": true},
+              "voxel_satisfactoriocoon/ttdl.item": {"stackable": true},
+              "voxel_satisfactoriocoon/voxel.item": {"stackable": true}
+            }
+        }
+    ]
+}

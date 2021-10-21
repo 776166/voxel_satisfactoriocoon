@@ -2,7 +2,7 @@
   "LocaleUri": "base/ru.locale",
   "Items": {
     "voxel_satisfactoriocoon/greet_title": "Привет, {{ username }}!",
-    "voxel_satisfactoriocoon/greet_text": "Это Voxel SatisFactorioCoon. Давайте вместе сделаем транспортные тайкуны снова классными?!",
+    "voxel_satisfactoriocoon/greet_text": "Это Voxel SatisFactorIOCoon. Давайте вместе сделаем транспортные тайкуны снова классными?!",
 
     "voxel_satisfactoriocoon/pixel.item#DisplayName": "Пиксель",
     "voxel_satisfactoriocoon/r_pixel.item#DisplayName": "Красный пиксель",
@@ -12,7 +12,11 @@
     "voxel_satisfactoriocoon/3d.item#DisplayName": "3D",
     "voxel_satisfactoriocoon/voxel.item#DisplayName": "Воксель",
     "voxel_satisfactoriocoon/tesseract.item#DisplayName": "Тессеракт",
-    "voxel_satisfactoriocoon/cup.item#DisplayName": "FICSIT Coffee Cup™",
+    "voxel_satisfactoriocoon/coffeecup.item#DisplayName": "FICSIT Coffee Cup™",
+    "voxel_satisfactoriocoon/tesla.item#DisplayName": "Tesla",
+    "voxel_satisfactoriocoon/ttdl.item#DisplayName": "Transport Tycoon DeLuxe",
+    "voxel_satisfactoriocoon/satisfactory.item#DisplayName": "Satisfactory",
+    "voxel_satisfactoriocoon/factorio.item#DisplayName": "Factorio",
 
     "voxel_satisfactoriocoon/pixels.deposit#DisplayName": "Пиксели",
     "voxel_satisfactoriocoon/r_pixels.deposit#DisplayName": "Красные пиксели",
@@ -22,10 +26,19 @@
     "voxel_satisfactoriocoon/white_pixels.deposit#DisplayName": "Белые пиксели",
 
     "voxel_satisfactoriocoon/pixel_mining.research#DisplayName": "Майнинг пикселей",
-    "voxel_satisfactoriocoon/overlocking_1.research#DisplayName": "Растровая графика (разгон lv.1)",
-    "voxel_satisfactoriocoon/overlocking_2.research#DisplayName": "3D графика (разгон lv.2)",
-    "voxel_satisfactoriocoon/overlocking_3.research#DisplayName": "Voxel-графика (разгон lv.3)",
-    "voxel_satisfactoriocoon/overlocking_4.research#DisplayName": "4D-графика (упоротый разгон lv.4)",
+    "voxel_satisfactoriocoon/pixel_mining.research#Description": "Пиксель, пиксел или элиз - наименьший логический элемент двумерного цифрового изображения в растровой графике, или [физический] элемент матрицы дисплеев, формирующих изображение.",
+    "voxel_satisfactoriocoon/overlocking_lv1.research#DisplayName": "Растровая графика (разгон lv.1)",
+    "voxel_satisfactoriocoon/overlocking_lv1.research#Description": "Растровое, изображение (лат. rastrum — скребок, грабли) — изображение, представляющее собой сетку (мозаику) пикселей — цветных точек (обычно прямоугольных) на мониторе, бумаге и других отображающих устройствах.",
+    "voxel_satisfactoriocoon/overlocking_lv2.research#DisplayName": "3D графика (разгон lv.2)",
+    "voxel_satisfactoriocoon/overlocking_lv2.research#Description": "Трёхмерная графика — раздел компьютерной графики, посвящённый методам создания изображений или видео путём моделирования объектов в трёх измерениях. 3D-моделирование — процесс создания трёхмерной модели объекта.",
+    "voxel_satisfactoriocoon/overlocking_lv3.research#DisplayName": "Voxel-графика (разгон lv.3)",
+    "voxel_satisfactoriocoon/overlocking_lv3.research#Description": "Воксели являются аналогами двумерных пикселей для трёхмерного пространства.",
+    "voxel_satisfactoriocoon/overlocking_lv4.research#DisplayName": "4D-графика (упоротый разгон lv.4)",
+    "voxel_satisfactoriocoon/overlocking_lv4.research#Description": "Тессеракт явряется четырёхмерным аналогом вокселя, который является трёхмерным аналогом двухмерного пикселя, который аналогов не имеет.",
+    "voxel_satisfactoriocoon/meaning_transformer.research#DisplayName": "Преобразование смыслов",
+    "voxel_satisfactoriocoon/meaning_transformer.research#Description": "Преобразует одни сложные сущности в другие, ещё более сложные сущности.",
+    "voxel_satisfactoriocoon/voxel_tycoon.research#DisplayName": "Voxel Tycoon",
+    "voxel_satisfactoriocoon/voxel_tycoon.research#GoalTitle": "Ура! Voxel Tycoon вышел в релиз. Дорогой я из будущего, я надеюсь, что это произошло.",
 
     "voxel_satisfactoriocoon/pixel.mine#DisplayName": "Майнер пикселей",
     "voxel_satisfactoriocoon/r_pixel.mine#DisplayName": "Майнер красных пикселей",
@@ -34,10 +47,13 @@
     "voxel_satisfactoriocoon/black_pixel.mine#DisplayName": "Майнер чёрных пикселей",
     "voxel_satisfactoriocoon/white_pixel.mine#DisplayName": "Майнер белых пикселей",
 
-    "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Бустер графики (lv.1)",
-    "voxel_satisfactoriocoon/overlocker_v2.device#DisplayName": "Бустер графики (lv.1)",
     "voxel_satisfactoriocoon/enrichment_factory_v1.device#DisplayName": "Фабрика обогащения графики",
-    "voxel_satisfactoriocoon/overlocker_v3.device#DisplayName": "Бустер графики (lv.2)",
+    "voxel_satisfactoriocoon/overlocker.device#DisplayName": "Бустер графики (lv.1)",
+    "voxel_satisfactoriocoon/overlocker_lv1.device#DisplayName": "Бустер графики (lv.1)",
+    "voxel_satisfactoriocoon/overlocker_lv2.device#DisplayName": "Бустер 2D-графики (lv.2)",
+    "voxel_satisfactoriocoon/overlocker_lv3.device#DisplayName": "Бустер 3D-графики (lv.3)",
+    "voxel_satisfactoriocoon/overlocker_lv4.device#DisplayName": "Упоротный бустер графики (lv.4)",
+    "voxel_satisfactoriocoon/meaning_transformer_v1.device#DisplayName": "Преобразователь смыслов",
 
     "voxel_satisfactoriocoon/2d_v1.recipe#DisplayName": "2D — читерный рецепт",
     "voxel_satisfactoriocoon/2d_v2.recipe#DisplayName": "2D — хардкорный рецепт",
@@ -46,7 +62,10 @@
     "voxel_satisfactoriocoon/rgb.recipe#DisplayName": "Обогащение B/W в RGB — базовый рецепт",
     "voxel_satisfactoriocoon/voxel_v1.recipe#DisplayName": "Воксели — базовый рецепт",
     "voxel_satisfactoriocoon/tesseract_v1.recipe#DisplayName": "Тессеракт — базовый упоротый рецепт",
+    "voxel_satisfactoriocoon/ttdl.recipe#DisplayName": "Transport Tycoon DeLuxe",
+    "voxel_satisfactoriocoon/satisfactory.recipe#DisplayName": "Satisfactory",
+    "voxel_satisfactoriocoon/factorio.recipe#DisplayName": "Factorio",
 
-    "voxel_satisfactoriocoon/advert": "Здесь могла бы быть ваша реклама!1"
+    "voxel_satisfactoriocoon/advert": "Здесь могла бы быть ваша реклама!1",
   }
 }

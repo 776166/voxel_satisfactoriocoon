@@ -1,0 +1,15 @@
+{
+  "ParentResearchUris": [
+    "voxel_satisfactoriocoon/overlocking_lv3.research",
+    "engines_production/diesel_engine_production.research"
+  ],
+  "Tier": 1,
+  "Days": 42,
+  "DaysMultiplier": null,
+  "PricePerDay": 100,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

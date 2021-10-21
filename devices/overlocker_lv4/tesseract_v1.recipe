@@ -1,0 +1,21 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/overlocker_lv4.recipetarget",
+  "Duration": 16.0,
+  "InputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/2d.item",
+      "Count": 2.0
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/3d.item",
+      "Count": 3.0
+    },
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/tesseract.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/overlocking_lv4.research"
+}

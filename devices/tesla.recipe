@@ -1,0 +1,25 @@
+{
+  "TargetUri": "engines_production/engines_factory_v1.recipetarget",
+  "Duration": 1.0,
+  "InputItems": [
+    {
+      "Uri": "base/steel_beam.item",
+      "Count": 8.0
+    },
+    {
+      "Uri": "base/glass_pane.item",
+      "Count": 10.0
+    },
+    {
+      "Uri": "base/radio.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/tesla.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "base/electronic_devices_production.research"
+}

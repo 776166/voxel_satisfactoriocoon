@@ -1,0 +1,29 @@
+{
+  "TargetUri": "voxel_satisfactoriocoon/meaning_transformer_v1.recipetarget",
+  "Duration": 1.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/copper_ore.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/iron_ore.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "engines_production/diesel_engine.item",
+      "Count": 1.0
+    },
+  ],
+  "OutputItems": [
+    {
+      "Uri": "voxel_satisfactoriocoon/satisfactory.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "voxel_satisfactoriocoon/meaning_transformer.research"
+}

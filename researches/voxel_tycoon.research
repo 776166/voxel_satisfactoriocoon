@@ -1,0 +1,35 @@
+{
+  "ParentResearchUris": [
+
+  ],
+  "Tier": 1,
+  "Days": 64,
+  "DaysMultiplier": null,
+  "PricePerDay": 64,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "voxel_satisfactoriocoon/voxel.item",
+      "Count": 1,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/satisfactory.item",
+      "Count": 1,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/ttdl.item",
+      "Count": 1,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "voxel_satisfactoriocoon/factorio.item",
+      "Count": 1,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": true
+}
